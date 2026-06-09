@@ -91,7 +91,7 @@ Content-Type: application/json
 
 La documentación técnica completa está disponible en:
 
-https://api.sistemas360.ar/documentacion
+https://api.sistemas360.ar/documentacion-api
 
 ## Sitio oficial
 
